@@ -1,0 +1,67 @@
+{
+  "id" : "https://frieda914.github.io/guhua/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in frieda914/guhua project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 33471,
+    "id" : "https://frieda914.github.io/guhua/images/12/canvas/",
+    "label" : {
+      "none" : [ "12" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://frieda914.github.io/guhua/images/12/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://frieda914.github.io/guhua/images/12/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 1046,
+              "height" : 70
+            }, {
+              "width" : 2092,
+              "height" : 139
+            }, {
+              "width" : 4184,
+              "height" : 278
+            }, {
+              "width" : 8368,
+              "height" : 556
+            }, {
+              "width" : 16736,
+              "height" : 1111
+            }, {
+              "width" : 33471,
+              "height" : 2221
+            } ],
+            "profile" : "level0",
+            "width" : 33471,
+            "id" : "https://frieda914.github.io/guhua/images/12",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2221
+          } ],
+          "format" : "image/jpeg",
+          "width" : 33471,
+          "id" : "https://frieda914.github.io/guhua/images/12/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 2221
+        },
+        "target" : "https://frieda914.github.io/guhua/images/12/canvas/"
+      } ]
+    } ],
+    "height" : 2221
+  } ]
+}
