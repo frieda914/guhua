@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 1046,
+    "height" : 70
+  }, {
+    "width" : 2092,
+    "height" : 139
+  }, {
+    "width" : 4184,
+    "height" : 278
+  }, {
+    "width" : 8368,
+    "height" : 556
+  }, {
+    "width" : 16736,
+    "height" : 1111
+  }, {
+    "width" : 33471,
+    "height" : 2221
+  } ],
+  "profile" : "level0",
+  "width" : 33471,
+  "id" : "https://frieda914.github.io/guhua/images/12",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2221
+}
