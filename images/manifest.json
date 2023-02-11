@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1000,
+    "id" : "https://frieda914.github.io/guhua/images/sijihuaniao/canvas/",
+    "label" : {
+      "none" : [ "sijihuaniao" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://frieda914.github.io/guhua/images/sijihuaniao/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://frieda914.github.io/guhua/images/sijihuaniao/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 32,
+              "height" : 54
+            }, {
+              "width" : 63,
+              "height" : 107
+            }, {
+              "width" : 125,
+              "height" : 213
+            }, {
+              "width" : 250,
+              "height" : 426
+            }, {
+              "width" : 500,
+              "height" : 852
+            }, {
+              "width" : 1000,
+              "height" : 1704
+            } ],
+            "profile" : "level0",
+            "width" : 1000,
+            "id" : "https://frieda914.github.io/guhua/images/sijihuaniao",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1704
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1000,
+          "id" : "https://frieda914.github.io/guhua/images/sijihuaniao/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 1704
+        },
+        "target" : "https://frieda914.github.io/guhua/images/sijihuaniao/canvas/"
+      } ]
+    } ],
+    "height" : 1704
+  }, {
     "width" : 33471,
     "id" : "https://frieda914.github.io/guhua/images/12/canvas/",
     "label" : {
