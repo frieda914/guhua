@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 188,
+    "height" : 12
+  }, {
+    "width" : 375,
+    "height" : 23
+  }, {
+    "width" : 750,
+    "height" : 45
+  }, {
+    "width" : 1500,
+    "height" : 90
+  }, {
+    "width" : 3000,
+    "height" : 180
+  }, {
+    "width" : 6000,
+    "height" : 360
+  } ],
+  "profile" : "level0",
+  "width" : 6000,
+  "id" : "https://frieda914.github.io/guhua/images/luohuayouyu",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 360
+}
