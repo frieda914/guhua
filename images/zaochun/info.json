@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 139,
+    "height" : 198
+  }, {
+    "width" : 277,
+    "height" : 396
+  }, {
+    "width" : 553,
+    "height" : 791
+  }, {
+    "width" : 1106,
+    "height" : 1581
+  }, {
+    "width" : 2211,
+    "height" : 3162
+  }, {
+    "width" : 4422,
+    "height" : 6324
+  } ],
+  "profile" : "level0",
+  "width" : 4422,
+  "id" : "https://frieda914.github.io/guhua/images/zaochun",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 6324
+}
